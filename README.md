@@ -6,7 +6,7 @@ This is a Java Swing Based Music Player which playes local music
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SAHILDUDHAL21/Flappy-Bird/blob/main/image.png)
+![App Screenshot](https://github.com/SAHILDUDHAL21/Music-Player-Java/blob/main/Screenshot%202024-09-16%20at%2010.27.31%20AM.png)
 
 
 ## Features
@@ -22,7 +22,7 @@ This is a Java Swing Based Music Player which playes local music
 
 - Java Swing 
 - Java Awt, Awt event
-- Threading
+- File Handling
 
          
 
